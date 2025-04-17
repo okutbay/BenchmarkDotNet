@@ -1,6 +1,8 @@
-using BenchmarkDotNet.Attributes;
+﻿using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
 using System;
+
+namespace BenchmarkDotNetSample;
 
 public class MethodBenchmarks
 {
